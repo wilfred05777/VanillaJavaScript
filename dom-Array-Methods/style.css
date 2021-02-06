@@ -40,7 +40,7 @@ button {
 
 main {
   flex: 1;
-  padding-bottom: 1px solid #111;
+  padding: 10px 20px;
 }
 
 h2 {
